@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "damascus:block/tungsten_ore"
+      "model": "damascus:block/aluminum_ore"
     }
   }
 }
