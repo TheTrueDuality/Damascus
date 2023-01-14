@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "damascus:block/tungsten_block"
+      "model": "damascus:block/tin_block"
     }
   }
 }

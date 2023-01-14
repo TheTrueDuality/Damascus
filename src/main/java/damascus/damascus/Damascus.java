@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 public class Damascus implements ModInitializer {
     public static final String MOD_ID = "damascus";
 
-    public static final ItemGroup DAMASCUS = FabricItemGroup.builder(new Identifier(MOD_ID, "damascus")).icon(()->new ItemStack(itemDefenitions.RAW_TUNGSTEN)).build();
+    public static final ItemGroup DAMASCUS = FabricItemGroup.builder(new Identifier(MOD_ID, "damascus")).icon(()->new ItemStack(itemDefenitions.DAMASCUS_STEEL)).build();
 
     @Override
     public void onInitialize() {

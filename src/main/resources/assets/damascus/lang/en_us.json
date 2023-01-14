@@ -1,5 +1,6 @@
 {
   "itemGroup.damascus.damascus": "Damascus",
+  "item.damascus.damascus_steel": "Damascus Steel",
   "item.damascus.raw_tungsten": "Raw Tungsten",
   "item.damascus.tungsten_ingot": "Tungsten Ingot",
   "block.damascus.raw_tungsten_block": "Block of Raw Tungsten",
@@ -16,9 +17,9 @@
   "item.damascus.silver_ingot": "Silver Ingot",
   "block.damascus.raw_silver_block": "Block of Raw Silver",
   "block.damascus.silver_ore": "Silver Ore",
-  "item.damascus.raw_aluminum": "Raw Aluminum",
+  "item.damascus.raw_aluminum": "Raw Bauxite",
   "item.damascus.aluminum_ingot": "Aluminum Ingot",
-  "block.damascus.raw_aluminum_block": "Block of Raw Aluminum",
+  "block.damascus.raw_aluminum_block": "Block of Raw Bauxite",
   "block.damascus.aluminum_ore": "Aluminum Ore",
   "block.damascus.tungsten_block": "Tungsten Cube",
   "block.damascus.zinc_block": "Block of Zinc",

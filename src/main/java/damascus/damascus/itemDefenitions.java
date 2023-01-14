@@ -29,6 +29,7 @@ public class itemDefenitions {
     public static final Block ALUMINUM_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f));
 
 
+    public static final Item DAMASCUS_STEEL = new Item(new FabricItemSettings());
     public static final Item RAW_TUNGSTEN = new Item(new FabricItemSettings());
     public static final Item RAW_TUNGSTEN_BLOCK_ITEM = new BlockItem(RAW_TUNGSTEN_BLOCK, new FabricItemSettings());
     public static final Item TUNGSTEN_ORE_ITEM = new BlockItem(TUNGSTEN_ORE, new FabricItemSettings());
@@ -59,6 +60,7 @@ public class itemDefenitions {
 
 
     public static void register(){
+        Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "damascus_steel"), DAMASCUS_STEEL);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "raw_tungsten"), RAW_TUNGSTEN);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "raw_tungsten_block"), RAW_TUNGSTEN_BLOCK_ITEM);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "tungsten_ore"), TUNGSTEN_ORE_ITEM);
@@ -132,6 +134,8 @@ public class itemDefenitions {
             content.add(TIN_BLOCK_ITEM);
             content.add(SILVER_BLOCK_ITEM);
             content.add(ALUMINUM_BLOCK_ITEM);
+
+            content.add(DAMASCUS_STEEL);
         });
     }
 }
