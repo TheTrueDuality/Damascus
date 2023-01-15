@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "damascus:raw_aluminum"
+        }
+    },
+    "result": {
+        "item": "damascus:raw_aluminum_block",
+        "count": 1
+    }
+}

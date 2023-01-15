@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "damascus:tungsten_block"
+    }
+  },
+  "result": {
+    "item": "damascus:tungsten_ingot",
+    "count": 9
+  }
+}

@@ -25,5 +25,8 @@
   "block.damascus.zinc_block": "Block of Zinc",
   "block.damascus.tin_block": "Block of Tin",
   "block.damascus.silver_block": "Block of Silver",
-  "block.damascus.aluminum_block": "Block of Aluminum"
+  "block.damascus.aluminum_block": "Block of Aluminum",
+  "item.damascus.forge_hammer": "Forge Hammer",
+  "item.damascus.flux_dust": "Flux Dust",
+  "item.damascus.steel_ingot": "Steel Ingot"
 }
