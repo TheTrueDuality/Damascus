@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "damascus:silver_ore"
+  },
+  "result": "damascus:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

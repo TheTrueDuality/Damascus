@@ -15,21 +15,21 @@ import net.minecraft.util.Identifier;
 public class itemDefenitions {
 
     //Blocks
-    public static final Block TUNGSTEN_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(3.0f).requiresTool());
-    public static final Block ZINC_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block TIN_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block SILVER_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block ALUMINUM_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block RAW_TUNGSTEN_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(3.0f).requiresTool());
-    public static final Block RAW_ZINC_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block RAW_TIN_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block RAW_SILVER_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block RAW_ALUMINUM_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block TUNGSTEN_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block ZINC_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block TIN_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block SILVER_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f).requiresTool());
-    public static final Block ALUMINUM_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).hardness(2.0f).requiresTool());
+    public static final Block TUNGSTEN_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(6.0f).hardness(3.5f).requiresTool());
+    public static final Block ZINC_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block TIN_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block SILVER_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block ALUMINUM_ORE = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.5f).requiresTool());
+    public static final Block RAW_TUNGSTEN_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(6.0f).hardness(3.5f).requiresTool());
+    public static final Block RAW_ZINC_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block RAW_TIN_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block RAW_SILVER_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.0f).requiresTool());
+    public static final Block RAW_ALUMINUM_BLOCK = new Block(FabricBlockSettings.of(Material.STONE).strength(3.0f).hardness(3.5f).requiresTool());
+    public static final Block TUNGSTEN_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(8.0f).hardness(5.0f).requiresTool());
+    public static final Block ZINC_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(5.0f).hardness(4.0f).requiresTool());
+    public static final Block TIN_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(5.0f).hardness(4.0f).requiresTool());
+    public static final Block SILVER_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(5.0f).hardness(4.0f).requiresTool());
+    public static final Block ALUMINUM_BLOCK = new Block(FabricBlockSettings.of(Material.METAL).strength(5.0f).hardness(5.0f).requiresTool());
 
     //Block Items
     public static final Item TUNGSTEN_ORE_ITEM = new BlockItem(TUNGSTEN_ORE, new FabricItemSettings());

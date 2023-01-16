@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "damascus:tungsten_ore"
+  },
+  "result": "damascus:tungsten_ingot",
+  "experience": 1,
+  "cookingtime": 200
+}

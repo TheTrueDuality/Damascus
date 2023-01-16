@@ -1,0 +1,14 @@
+{
+"replace": false,
+"values": [
+  "damascus:zinc_ore",
+  "damascus:raw_zinc_block",
+  "damascus:zinc_block",
+  "damascus:tin_ore",
+  "damascus:raw_tin_block",
+  "damascus:tin_block",
+  "damascus:silver_ore",
+  "damascus:raw_silver_block",
+  "damascus:silver_block"
+]
+}

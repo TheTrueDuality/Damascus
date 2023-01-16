@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "damascus:deepslate_zinc_ore"
+  },
+  "result": "damascus:zinc_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

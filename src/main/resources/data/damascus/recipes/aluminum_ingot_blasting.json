@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "damascus:raw_aluminum"
+  },
+  "result": "damascus:aluminum_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}

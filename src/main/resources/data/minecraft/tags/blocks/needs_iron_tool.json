@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "damascus:tungsten_ore",
-    "damascus:raw_tungsten_block"
+    "damascus:raw_tungsten_block",
+    "damascus:tungsten_block",
+    "damascus:aluminum_ore",
+    "damascus:raw_aluminum_block",
+    "damascus:aluminum_block"
   ]
 }

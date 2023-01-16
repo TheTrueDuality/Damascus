@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-      "item": "damascus:raw_aluminum_block"
+      "item": "damascus:aluminum_block"
     }
   },
   "result": {
-    "item": "damascus:raw_aluminum",
+    "item": "damascus:aluminum_ingot",
     "count": 9
   }
 }

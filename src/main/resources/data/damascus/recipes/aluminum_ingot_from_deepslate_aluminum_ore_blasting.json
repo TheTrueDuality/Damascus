@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "damascus:deepslate_silver_ore"
+  },
+  "result": "damascus:silver_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}
