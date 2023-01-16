@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "damascus:tin_nugget"
+    }
+  },
+  "result": {
+    "item": "damascus:tin_ingot",
+    "count": 1
+  }
+}

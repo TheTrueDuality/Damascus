@@ -2,13 +2,19 @@
 "replace": false,
 "values": [
   "damascus:zinc_ore",
-  "damascus:raw_zinc_block",
-  "damascus:zinc_block",
   "damascus:tin_ore",
-  "damascus:raw_tin_block",
-  "damascus:tin_block",
   "damascus:silver_ore",
+
+  "damascus:deepslate_zinc_ore",
+  "damascus:deepslate_tin_ore",
+  "damascus:deepslate_silver_ore",
+
+  "damascus:raw_zinc_block",
+  "damascus:raw_tin_block",
   "damascus:raw_silver_block",
+
+  "damascus:zinc_block",
+  "damascus:tin_block",
   "damascus:silver_block"
 ]
 }
