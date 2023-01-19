@@ -83,6 +83,11 @@ public class itemDefenitions {
     public static final Item SILVER_INGOT = new Item(new FabricItemSettings());
     public static final Item ALUMINUM_INGOT = new Item(new FabricItemSettings());
 
+    public static final Item TIN_COPPER_MELD = new Item(new FabricItemSettings());
+    public static final Item BRONZE_ALLOY = new Item(new FabricItemSettings());
+    public static final Item ZINC_COPPER_MELD = new Item(new FabricItemSettings());
+    public static final Item BRASS_ALLOY = new Item(new FabricItemSettings());
+
     public static final Item DAMASCUS_STEEL = new Item(new FabricItemSettings());
     public static final Item STEEL_INGOT = new Item(new FabricItemSettings());
 
@@ -134,6 +139,11 @@ public class itemDefenitions {
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "tin_nugget"), TIN_NUGGET);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "silver_nugget"), SILVER_NUGGET);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "aluminum_nugget"), ALUMINUM_NUGGET);
+
+        Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "tin_copper_meld"), TIN_COPPER_MELD);
+        Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "bronze_alloy"), BRONZE_ALLOY);
+        Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "zinc_copper_meld"), ZINC_COPPER_MELD);
+        Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "brass_alloy"), BRASS_ALLOY);
 
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "damascus_steel"), DAMASCUS_STEEL);
         Registry.register(Registries.ITEM, new Identifier(Damascus.MOD_ID, "steel_ingot"), STEEL_INGOT);
@@ -208,6 +218,10 @@ public class itemDefenitions {
             content.add(ALUMINUM_BLOCK_ITEM);
 
             content.add(FLUX_DUST);
+            content.add(TIN_COPPER_MELD);
+            content.add(BRONZE_ALLOY);
+            content.add(ZINC_COPPER_MELD);
+            content.add(BRASS_ALLOY);
             content.add(STEEL_INGOT);
             content.add(DAMASCUS_STEEL);
             content.add(FORGE_HAMMER);

@@ -45,6 +45,10 @@
 
   "item.damascus.steel_ingot": "Steel Ingot",
   "item.damascus.damascus_steel": "Damascus Steel",
+  "item.damascus.tin_copper_meld": "Tin-Copper Meld",
+  "item.damascus.bronze_alloy": "Bronze Alloy",
+  "item.damascus.zinc_copper_meld": "Zinc-Copper Meld",
+  "item.damascus.brass_alloy": "Brass Alloy",
 
   "item.damascus.forge_hammer": "Forge Hammer",
   "item.damascus.flux_dust": "Flux Dust"

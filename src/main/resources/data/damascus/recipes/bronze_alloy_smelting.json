@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "damascus:tin_copper_meld"
+  },
+  "result": "damascus:bronze_alloy",
+  "experience": 1,
+  "cookingtime": 200
+}
